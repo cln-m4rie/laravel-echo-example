@@ -15,3 +15,4 @@ yarn-error.log
 !/mysql/.gitkeep
 .idea/*
 .php_cs.cache
+.vscode/
